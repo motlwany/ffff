@@ -74,9 +74,3 @@ js=document.createElement('script');js.src='https://bio.linkcdn.to/instabio.cc/v
 </div>
 </div>
 <div class="tmpl-bg"><div class="form-tmpl-container" id="form-tmpl-container"></div></div>
-<div class="popup popup-mask">
-</div>
-</body>
-<script async defer src="https://bio.linkcdn.to/instabio.cc/v3.5/js/share/biolink-cmpt.js?t=1656654291495"></script>
-<script src="https://bio.linkcdn.to/instabio.cc/v3.5/js/share/share-tmpl.js?t=1656654291495"></script>
-</html>
